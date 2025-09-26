@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-# git-perfection
-=======
-# gitrick
->>>>>>> gitrick/main
+gitrick/main
